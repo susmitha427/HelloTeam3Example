@@ -1,0 +1,19 @@
+{
+  "id": "HelloTeam3Example",
+  "siteId": "HelloTeam3Example",
+  "siteAuth": {
+    "authTypes": [
+      {
+        "id": "sso",
+        "scheme": "SSO"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "code": "en-US",
+      "description": "English"
+    }
+  ],
+  "applicationId": "HelloTeam3Example"
+}

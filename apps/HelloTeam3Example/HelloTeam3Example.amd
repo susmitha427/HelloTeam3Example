@@ -1,0 +1,12 @@
+{
+  "applicationId": "HelloTeam3Example",
+  "tasks": [
+    {
+      "id": "root",
+      "routingPattern": "/",
+      "page": {
+        "id": "home"
+      }
+    }
+  ]
+}
